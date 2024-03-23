@@ -1,4 +1,4 @@
-1. require express, mongoose, create port
+<!-- 1. require express, mongoose, create port
 2. connect mongodb
 3. create .env file, require dotenv, dotenv.config();
 4. models:- User.js - define schema, Post.js, Comment.js - schems
@@ -49,4 +49,4 @@
      EditPost.jsx:- edit posts and connect to backend, create update function like images, categories,
      PostDetails.jsx:-  apply function for fetching comments, write a new comments
       Comment.jsx- write function Owner can delete comment, - Menu.jsx- define user profile info.
-     create MyBlogs.jsx- fetching posts of user, profile.jsx- update user profile
+     create MyBlogs.jsx- fetching posts of user, profile.jsx- update user profile -->
