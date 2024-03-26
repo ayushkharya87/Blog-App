@@ -50,3 +50,8 @@
      PostDetails.jsx:-  apply function for fetching comments, write a new comments
       Comment.jsx- write function Owner can delete comment, - Menu.jsx- define user profile info.
      create MyBlogs.jsx- fetching posts of user, profile.jsx- update user profile -->
+
+     1. User can create a new account and Login their existing account
+     2. User can create a New Post , Edit their own Post and delete their own Post
+     3. User can also add comments and delete their own comments
+     4. User update their Profile and delete profile
